@@ -1,5 +1,5 @@
 # Pirple-Python
-Contains all the assignments and a Project within the course.
+Contains all the assignments included within the course.
 Happy Coding!
 Regards,
 Chaitanya.
