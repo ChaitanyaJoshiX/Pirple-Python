@@ -1,6 +1,6 @@
 """
 Handle the errors using try and except.
-Use any function you like.
+GitHub : @ChaitanyaJoshiX
 """
 Things = ["Chocolate", "Chips", "Apple", "Water"]
 l = len(Things)
@@ -18,3 +18,6 @@ try:
 except Exception as exep:
     print(exep)
     print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+"""
+GitHub : @ChaitanyaJoshiX
+"""
