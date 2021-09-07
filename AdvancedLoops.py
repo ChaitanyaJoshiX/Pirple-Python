@@ -1,6 +1,7 @@
 """
 Writing a Function that accepts 2 parameters.
 Draws a playing board based on the rows and columns input
+GitHub : @ChaitanyaJoshiX
 """
 def DrawingBoard(rows, columns):
     for i in range(rows):
@@ -23,3 +24,6 @@ def DrawingBoard(rows, columns):
 Testing out the Function
 """
 DrawingBoard(23,125) 
+"""
+GitHub : @ChaitanyaJoshiX
+"""
