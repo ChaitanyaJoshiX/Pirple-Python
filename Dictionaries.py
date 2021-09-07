@@ -4,6 +4,7 @@ Printing out each key and it's value through a loop.
 Also, creating a function that allows the user to guess the value of any key .
 If the key exists in dictionary and the value is correct, function returns true.
 Or else, it returns false.
+GitHub : @ChaitanyaJoshiX
 """
 #Base program starts here
 SongDetails = {"Artist":"OneRepublic", "Genre":"Pop", "Duration":169,
@@ -31,3 +32,6 @@ def Guess(key, value):
 print(Guess("YearofRelease", 2021)) #Will return True
 print(Guess("LikeDislikeRatio", 65.6)) #Will return False
 print(Guess("HitorFlop", "Hit")) #Will return False
+"""
+GitHub : @ChaitanyaJoshiX
+"""
