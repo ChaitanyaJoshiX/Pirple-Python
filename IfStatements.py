@@ -1,6 +1,7 @@
 """
-Writing a Function that accepts 3 parameters
-Checks for equality between any two of them or more
+Writing a Function that accepts 3 parameters.
+Checks for equality between any two of them or more.
+GitHub : @ChaitanyaJoshiX
 """
 def CheckEqual(a, b, c):
     a, b, c = int(a), int(b), int(c)
@@ -13,3 +14,6 @@ def CheckEqual(a, b, c):
     else:
         print("False")
 CheckEqual(5, 6, "6") #Testing out the function with an example
+"""
+GitHub : @ChaitanyaJoshiX
+"""
