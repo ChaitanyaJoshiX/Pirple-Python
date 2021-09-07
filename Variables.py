@@ -2,6 +2,7 @@
 Assignment 1
 My Favourite Song and its meta-data
 Storing all the commented details and printing them one below the other
+GitHub : @ChaitanyaJoshiX
 """
 Artist = "OneRepublic" #Artist of the song
 Genre = "Pop" #Genre of the song
@@ -21,3 +22,6 @@ print(LikeToDislikeRatio)
 print(Views)
 print(Album)
 print(LeadVocalist)
+"""
+GitHub : @ChaitanyaJoshiX
+"""
