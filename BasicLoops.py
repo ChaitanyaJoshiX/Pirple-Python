@@ -4,6 +4,7 @@ But, for multiples of three printing "Fizz".
 For multiples of five printing "Buzz".
 For multiples of both three and five printing "FizzBuzz".
 If a number is prime printing "Prime"
+GitHub : @ChaitanyaJoshiX
 """
 for i in range(1,101):
     s = 0
@@ -25,3 +26,6 @@ for i in range(1,101):
         print("Buzz")
     else:
         print(i)
+"""
+GitHub : @ChaitanyaJoshiX
+"""
