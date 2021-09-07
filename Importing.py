@@ -1,6 +1,7 @@
 """
-This program is menu driven
-Library chosen to be used extensively is math module
+This program is menu driven.
+Library chosen to be used extensively is math module.
+GitHub : @ChaitanyaJoshiX
 """
 import math
 def MathFunctions():
@@ -50,3 +51,6 @@ print("9 : initialise with constant e")
 print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 choice = int(input("Enter your choice (1,2,3,4,5,6,7,8,9) : "))
 MathFunctions()
+"""
+GitHub : @ChaitanyaJoshiX
+"""
