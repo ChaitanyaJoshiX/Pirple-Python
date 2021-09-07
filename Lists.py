@@ -2,6 +2,7 @@
 Creating a function which adds unique elements to a list when called upon.
 Adding non-unique elements to a seperate list.
 Testing out the function with different elements and printing both the lists in the end.
+GitHub : @ChaitanyaJoshiX
 """
 myUniqueList = [] #Creating the list for unique elements
 myLeftovers = [] #Creating the list for non-unique elements
@@ -19,3 +20,6 @@ print(AddToList(3.2))
 print(AddToList(1))
 print(myUniqueList) #Printing the unique list created
 print(myLeftovers) #Printing the remaining values which were rejected in myUniqueList
+"""
+GitHub : @ChaitanyaJoshiX
+"""
