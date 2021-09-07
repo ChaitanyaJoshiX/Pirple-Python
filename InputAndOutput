@@ -4,6 +4,7 @@ It prompts the user to enter a file name.
 If the file name does not exist they are prompted them to enter the text.
 After the text is enterred, the file is saved and program ends.
 If the file name exists user can either read, delete and start over or append.
+GitHub : @ChaitanyaJoshiX
 """
 import os
 existFile = open("existFile", "w")
@@ -61,4 +62,5 @@ existFile.close() #Closing it again just in case
 """
 End of program,
 Thank you!
+GitHub : @ChaitanyaJoshiX
 """
