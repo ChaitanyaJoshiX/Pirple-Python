@@ -1,6 +1,7 @@
 """
-Assigning attributes of my favourite song in a function
-Calling the function and displaying them one below the other
+Assigning attributes of my favourite song in a function.
+Calling the function and displaying them one below the other.
+GitHub : @ChaitanyaJoshiX
 """
 def RecordLabel() : #Record Label of the song
     Output = "Universal Music Group"
@@ -18,3 +19,6 @@ print(RecordLabel())
 print(DurationInSeconds())
 print(Album())
 print(HaveMillionsViewed())
+"""
+GitHub : @ChaitanyaJoshiX
+"""
